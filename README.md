@@ -1,7 +1,9 @@
 # IOS-Swift_BeverageOrderingSystem
 
 
-目的:平常很喜歡喝茶類,決定做飲料系統
+目的:目的:之前在C#_WindowsForms有作冷飲訂購系統,所以試著嘗試用其它程式語言,像是Java與Swift
+
+冷飲訂購系統(Swift): https://github.com/TinaLebron/OrderingSystem.git
 
 
 功能:  <br>
