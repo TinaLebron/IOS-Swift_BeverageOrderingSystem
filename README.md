@@ -21,7 +21,6 @@
 
 | Option | Description |
 | ------ | ----------- |
-| edit(編輯)   | Press Edit to display the delete function or move the data location. |
 | add (增加) | Press to go to the cold drink purchase page. |
 | dalete (刪除)   | Delete selected item.  |
 
@@ -29,13 +28,9 @@
 <img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/editMove.png" width="650" />
 <img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/editDelete.png" width="650" />
 
-
 | Option | Description |
 | ------ | ----------- |
 | edit(編輯)   | Press Edit to display the delete function or move the data location. |
-| add (增加) | Press to go to the cold drink purchase page. |
-| dalete (刪除)   | Delete selected item.  |
-
 
 ## Cold Drink Purchase(冷飲選購)
 
