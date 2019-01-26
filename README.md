@@ -34,7 +34,7 @@
 
 ## Cold Drink Purchase(冷飲選購)
 
-&nbsp;
+
 <img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/ordering.png" width="650" />
 <img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/orderingOK.png" width="650" />
 
