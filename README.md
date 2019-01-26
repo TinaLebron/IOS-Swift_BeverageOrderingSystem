@@ -16,6 +16,11 @@
 ## Main(ShoppingCart) 
 
 <img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/shoppingCartStart.png"  width="650" />
+<img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/shoppingCart.png" width="650" />
+<img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/delete.png" width="650" />
+<img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/edit.png" width="650" />
+<img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/editDelete.png" width="650" />
+<img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/editMove.png" width="650" />
 
 | Option | Description |
 | ------ | ----------- |
@@ -32,15 +37,9 @@
 | Option | Description |
 | ------ | ----------- |
 | old drink selection(冷飲選擇)  | Cold drink purchase can choose the drink you want to drink, sweetness, ice cubes, feeding. |
-| ok(完成)    | Press Done, and a notification will be displayed for a few seconds (the data is added successfully).|
+| ok(完成)    | Press ok, and a notification will be displayed for a few seconds (the data is added successfully).|
 | return(返回)    | Not stored.
 
-<img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/shoppingCart.png" width="650" />&nbsp;
-<img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/delete.png" width="650" />
 
-&nbsp;
-<img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/edit.png" width="650" />
-<img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/editDelete.png" width="650" />
-<img src="https://github.com/TinaLebron/IOS-Swift_BeverageOrderingSystem/blob/master/picture/editMove.png" width="650" />
 
 
