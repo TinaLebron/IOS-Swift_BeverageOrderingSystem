@@ -126,7 +126,7 @@ class ViewControllerColdDrinkPurchase: UIViewController  ,UIPickerViewDelegate,U
             appDelegate.arrayEachPrices.add(self.eachPrices)
             print(eachPrices)
 
-            self.navigationItem.prompt = "數字集合資料新增成功"
+            self.navigationItem.prompt = "資料新增成功"
             
             self.perform(#selector(clearPrompt),with: nil,afterDelay: 2.0)
         }else {
